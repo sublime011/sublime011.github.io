@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.gen p {
+    border: 1px solid rgb(255, 0, 119);
+    padding: 10px 15px 5px 20px;
+}
+
+.blue {
+    border: 1px solid blue;
+}
